@@ -1,0 +1,312 @@
+/* global styles */
+h1,h2,h3,p {
+    font-family: 'Lexend Deca', sans-serif;
+}
+
+/* color */
+.color {
+    background-color: #f2f2f2;
+    padding: 10px 0;
+    text-align: center;
+    margin: 10px 0;
+}
+.color h2 {
+    text-align: left;
+}
+.reds {
+    width: 48%;
+    text-align: center;
+    display: inline-block;
+}
+.reds h3 {
+    text-align: left;
+}
+.reds p {
+    color: white;
+}
+.red1 {
+    background-color: #990000;
+    height: 200px;
+    width: 135px;
+    display: inline-block;
+}
+.red2 {
+    background-color:#cc0000;
+    height: 200px;
+    width: 135px;
+    display: inline-block;
+}
+.red3 {
+    background-color: #ff0000;
+    height: 200px;
+    width: 135px;
+    display: inline-block;
+}
+.red4 {
+    background-color: #ff3333;
+    height: 200px;
+    width: 135px;
+    display: inline-block;
+}
+.red5 {
+    background-color: #ff6666;
+    height: 200px;
+    width: 135px;
+    display: inline-block;
+}
+
+.blues {
+    width: 48%;
+    text-align: center;
+    display: inline-block;
+}
+.blues h3 {
+    text-align: left;
+}
+.blues p {
+    color: white;
+}
+.blue1 {
+    background-color: #000099;
+    height: 200px;
+    width: 135px;
+    display: inline-block;
+}
+.blue2 {
+    background-color: #0000cc;
+    height: 200px;
+    width: 135px;
+    display: inline-block;
+}
+.blue3 {
+    background-color: #0000ff;
+    height: 200px;
+    width: 135px;
+    display: inline-block;
+}
+.blue4 {
+    background-color: #3333ff;
+    height: 200px;
+    width: 135px;
+    display: inline-block;
+}
+.blue5 {
+    background-color: #6666ff;
+    height: 200px;
+    width: 135px;
+    display: inline-block;
+}
+
+.yellows {
+    width: 48%;
+    text-align: center;
+    display:inline-block;
+}
+.yellows h3 {
+    text-align: left;
+}
+.yellows p {
+    color: white;
+}
+.yellow3 p, .yellow4 p, .yellow5 p {
+    color: grey;
+}
+.yellow1 {
+    background-color: #999900;
+    height: 200px;
+    width: 135px;
+    display: inline-block;
+}
+.yellow2 {
+    background-color: #cccc00;
+    height: 200px;
+    width: 135px;
+    display: inline-block;
+}
+.yellow3 {
+    background-color: #ffff00;
+    height: 200px;
+    width: 135px;
+    display: inline-block;
+}
+.yellow4 {
+    background-color: #ffff33;
+    height: 200px;
+    width: 135px;
+    display: inline-block;
+}
+.yellow5 {
+    background-color: #ffff66;
+    height: 200px;
+    width: 135px;
+    display: inline-block;
+}
+
+.greens {
+    width: 48%;
+    text-align: center;
+    display:inline-block;
+}
+.greens h3 {
+    text-align: left;
+}
+.greens p {
+    color: white;
+}
+.green3 p, .green4 p, .green5 p {
+    color: grey;
+}
+.green1 {
+    background-color: #33cc00;
+    height: 200px;
+    width: 135px;
+    display: inline-block;
+}
+.green2 {
+    background-color: #40ff00;
+    height: 200px;
+    width: 135px;
+    display: inline-block;
+}
+.green3 {
+    background-color: #66ff33;
+    height: 200px;
+    width: 135px;
+    display: inline-block;
+}
+.green4 {
+    background-color: #8cff66;
+    height: 200px;
+    width: 135px;
+    display: inline-block;
+}
+.green5 {
+    background-color: #b3ff99;
+    height: 200px;
+    width: 135px;
+    display: inline-block;
+}
+
+/* fonts */
+.fonts {
+    text-align: center;
+    background-color: #f2f2f2;
+    padding: 10px 0;
+    margin: 10px 0;
+}
+.fonts h2 {
+    text-align: left;
+}
+
+.roboto {
+    width: 48%;
+    display: inline-block;
+    text-align: center;
+}
+.roboto h3 {
+    text-align: left;
+}
+.roboto p {
+    font-family: 'Roboto', sans-serif;
+}
+.robo-italic {
+    font-weight: 300;
+    font-style: italic;
+}
+.robo-bold {
+    font-weight: 700;
+}
+
+.bebas-neue {
+    width: 48%;
+    display: inline-block;
+    text-align: center;
+}
+.bebas-neue h3 {
+    text-align: left;
+}
+.bebas-neue p {
+    font-family: 'Bebas Neue', sans-serif;
+}
+.bebas-italic{
+    font-weight: 300;
+    font-style: italic;
+}
+.bebas-bold {
+    font-weight: 1000;
+}
+
+.orbitron {
+    width: 48%;
+    display: inline-block;
+    text-align: center;
+}
+.orbitron h3 {
+    text-align: left;
+}
+.orbitron p {
+    font-family: 'Orbitron', sans-serif;
+}
+.orbit-italic {
+    font-weight: 300;
+    font-style: italic;
+}
+.orbit-bold {
+    font-weight: bold;
+}
+
+.courgette {
+    width: 48%;
+    display: inline-block;
+    text-align: center;
+}
+.courgette h3 {
+    text-align: left;
+}
+.courgette p {
+    font-family: 'Courgette', cursive;
+}
+.courgette-italic {
+    font-weight: 300;
+    font-style: italic;
+}
+.courgette-bold {
+    font-weight: bold;
+}
+
+/* font-styles */
+.font-styles {
+    text-align: center;
+    background-color: #f2f2f2;
+    padding: 10px 0;
+    margin: 10px 0;
+}
+.font-styles h2 {
+    text-align: left;
+}
+.font-styles div {
+    display: inline-block;
+    width: 48%;
+}
+.header h1 {
+    text-align: left;
+    font-size: 32px;
+}
+.h2-header h2 {
+    text-align: left;
+}
+.h3-header h3 {
+    text-align: left;
+}
+.title {
+    text-align: left;
+}
+
+
+/* footer */
+footer {
+    text-align: center;
+    background-color: #f2f2f2;
+    padding: 10px 0;
+    margin: 10px 0;
+}
