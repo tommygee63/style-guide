@@ -25,6 +25,7 @@ header h1 {
 }
 .color h2 {
     text-align: left;
+    padding-left: 50px;
 }
 .reds {
     width: 48%;
@@ -204,7 +205,7 @@ header h1 {
 .fonts {
     text-align: center;
     background-color: #f2f2f2;
-    padding: 10px 0;
+    padding: 10px 50px;
     margin: 10px 0;
 }
 .fonts h2 {
@@ -291,7 +292,7 @@ header h1 {
 .font-styles {
     text-align: center;
     background-color: #f2f2f2;
-    padding: 10px 0;
+    padding: 10px 50px;
     margin: 10px 0;
 }
 .font-styles h2 {
